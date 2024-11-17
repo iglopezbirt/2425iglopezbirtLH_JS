@@ -1,0 +1,29 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: white;
+}
+#JavaQueBienLoPasamos {
+    font-family: Arial, sans-serif; /* Fuente Arial */
+    font-weight: bold; /* Negrita */
+    color: black; /* Color del texto */
+    font-size: 42px; /* Tamaño de la fuente */
+    text-shadow: 1px 1px 0 white, -1px 1px 0 white, 1px -1px 0 white, -1px -1px 0 white; /* Borde blanco */
+p {
+	color: black
+}
+img {
+    display: block;
+    margin: 0 auto; /* Ajuste importante: 0 en la parte superior e inferior y "auto" en los márgenes izquierdo y derecho */
+    max-width: 100%; /* Esto asegura que las imágenes no se salgan del contenedor */
+    height: auto; /* Hace que la altura de la imagen sea proporcional a su ancho */
+}
