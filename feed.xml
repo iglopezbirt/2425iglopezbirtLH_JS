@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Novedades de Gastro-txo</title>
+        <link>https://iglopezbirt.github.io/2425iglopezbirtLH/</link>
+        <description>Últimas novedades sobre la sociedad gastronómica Gastro-txo</description>
+        <language>es-es</language>
+        
+        <item>
+            <title>Cómo es una sociedad gastronómica en Euskadi</title>
+            <link>https://www.youtube.com/shorts/G_Csr2KfEbQ</link>
+            <description>Un breve vistazo a la tradición de las sociedades gastronómicas en el País Vasco.</description>
+            <pubDate>Fri, 14 Feb 2025 10:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>Definición de Txoko</title>
+            <link>https://es.wikipedia.org/wiki/Txoko</link>
+            <description>¿Qué es un Txoko? Descúbrelo en Wikipedia.</description>
+            <pubDate>Fri, 14 Feb 2025 12:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
